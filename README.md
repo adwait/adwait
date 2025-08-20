@@ -1,4 +1,4 @@
-a👋 Hi there, I'm Adwait! Check out [adwait.github.io](https://adwait.github.io/) 🌐 and you can reach me at adwait@berkeley.edu 📫.
+👋 Hi there, I'm Adwait! Check out [adwait.github.io](https://adwait.github.io/) 🌐 and you can reach me at adwait@berkeley.edu 📫.
 
 <!--
 **adwait/adwait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
